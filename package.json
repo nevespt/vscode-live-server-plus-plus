@@ -110,11 +110,9 @@
   },
   "devDependencies": {
     "@types/mime-types": "^2.1.0",
-    "@vscode/test-electron": "^2.2.3",
     "@types/mocha": "^2.2.42",
     "@types/node": "^10.12.21",
     "@types/open": "^6.1.0",
-    "@types/vscode": "^1.75.1",
     "@types/ws": "^6.0.1",
     "cpx": "^1.5.0",
     "tslint": "^5.12.1",
