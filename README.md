@@ -12,6 +12,16 @@
 ![VSCode Live Server++](./images/vscode-live-server-plus-plus_preview1.gif)
 
 ---
+## INSTALL
+
+- git clone https://github.com/nevespt/vscode-live-server-plus-plus
+- rename folder to ritwickdey.vscode-live-server-plus-plus-0.0.1
+- npm i
+- npm run compile
+- move folder to extensions folder
+
+  
+---
 ## Features
 
 - **No Need to save HTML, CSS, JS** :smile:
